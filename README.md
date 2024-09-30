@@ -1,6 +1,6 @@
 This repository contains projects from Marketing companies.
 
-Source: 
+Sources: 
 
 1. StrataScratch https://platform.stratascratch.com/data-projects.
 
